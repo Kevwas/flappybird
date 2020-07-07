@@ -1,0 +1,11 @@
+{
+  "name": "flappybird",
+  "version": "0.1.0",
+  "description": "Flappy Bird Clone made in JavaScript",
+  "main": "flappyBird.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Ariza",
+  "license": "ISC"
+}
